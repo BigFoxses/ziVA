@@ -4,7 +4,7 @@
 
 #include <mach/mach.h>
 #include <Foundation/Foundation.h>
-#include <IOKit/IOKitLib.h>
+#include "IOKit/IOKitLib.h"
 
 
 #ifndef APPLE_AVE_PWN_H_
