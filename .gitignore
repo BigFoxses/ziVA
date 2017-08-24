@@ -1,0 +1,5 @@
+bin
+build
+ziva 
+*.o
+.DS_Store
